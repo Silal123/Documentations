@@ -9,7 +9,7 @@ Dieses Plugin kann auf jedem Buildserver verwendet werden! Hier gibt es alle Inf
 **/gm <gamemode>** - lässt dich den Speilmodus wächseln \
 **/items** - gibt dir deine Hotbar items
 
-#### **Admin Commands:** \
+#### **Admin Commands:** 
 **/admin loadDefaultRankConfig** - lädt die standart rang configuration \
 **/rank <player> set <rank>** - setzt den Rang eines Spielers \
 **/rank <player>** get - ruft den Rang eines Spielers ab
@@ -17,12 +17,12 @@ Dieses Plugin kann auf jedem Buildserver verwendet werden! Hier gibt es alle Inf
 ## Hotbar items
 Es gibt verschiedene Hotbar Items mit denen man interagieren kann.
 
-#### **World Compass** \
+#### **World Compass** 
 ![Compass Hotbar Item](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/compass.png?raw=true)
 
 Mit diesem Item kann man das World Compass man Gui öffnen (siehe Guid).
 
-#### **Gamemode Switcher Item** \
+#### **Gamemode Switcher Item** 
 Dieses Item kann verschiedene Aussehen haben.
 
 **Creative:** \
