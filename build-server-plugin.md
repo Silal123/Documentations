@@ -1,7 +1,7 @@
 # Build-Server-Plugin
 Dieses Plugin kann auf jedem Buildserver verwendet werden! Hier gibt es alle Informationen die man batraucht und eine Anleitung!
 
-### Commands
+## Commands
 **Es gibt verschiedene Commands in diesem Plugin.**
 
 /world - öffnet das world Gui (Siehe GUIs) \
@@ -14,7 +14,7 @@ Dieses Plugin kann auf jedem Buildserver verwendet werden! Hier gibt es alle Inf
 /rank <player> set <rank> - setzt den Rang eines Spielers \
 /rank <player> get - ruft den Rang eines Spielers ab
 
-### Hotbar items
+## Hotbar items
 Es gibt verschiedene Hotbar Items mit denen man interagieren kann.
 
 **World Compass** \
