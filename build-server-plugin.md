@@ -17,7 +17,7 @@ Dieses Plugin kann auf jedem Buildserver verwendet werden! Hier gibt es alle Inf
 ### Hotbar items
 Es gibt verschiedene Hotbar Items mit denen man interagieren kann.
 
-**World Compass**
+**World Compass** \
 ![Compass Hotbar Item](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/compass.png?raw=true)
 
 Mit diesem Item kann man das World Compass man Gui öffnen (siehe Guid).
@@ -25,34 +25,34 @@ Mit diesem Item kann man das World Compass man Gui öffnen (siehe Guid).
 **Gamemode Switcher Item** \
 Dieses Item kann verschiedene Aussehen haben.
 
-Creative:
+Creative: \
 ![Gamemode Creative](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-creative.png?raw=true)
-Spectaotr:
+Spectaotr: \
 ![Gamemode Spectator](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-spectator.png?raw=true)
-Adventure:
+Adventure: \
 ![Gamemode Adventure](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-adventure.png?raw=true)
-Survival:
+Survival: \
 ![Gamemode Survival](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-survival.png?raw=true)
 
 ## Guis
 
-**Compass Main Gui**
+**Compass Main Gui** \
 ![GUI](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gui/compass-main.png?raw=true)
 
-**World Create Gui**
+**World Create Gui** \
 ![GUI](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gui/world-create.png?raw=true)
 
-**World list Gui**
+**World list Gui** \
 ![GUI](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gui/world-list.png?raw=true)
 
-**World Settings Gui**
+**World Settings Gui** \
 ![GUI](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gui/world-settings.png?raw=true)
 
-**World Trusts Gui**
+**World Trusts Gui** \
 ![GUI](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gui/world-trusts.png?raw=true)
 
-**World Add Trusted Player Gui**
+**World Add Trusted Player Gui** \
 ![GUI](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gui/world-trusts-add.png?raw=true)
 
-**Gamemode Gui**
+**Gamemode Gui** \
 ![GUI](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gui/gamemode-gui.png?raw=true)
