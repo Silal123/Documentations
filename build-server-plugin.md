@@ -26,11 +26,11 @@ Mit diesem Item kann man das World Compass man Gui öffnen (siehe Guid).
 Dieses Item kann verschiedene Aussehen haben.
 
 Creative: \
-![Gamemode Creative](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-creative.png?raw=true)
+![Gamemode Creative](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-creative.png?raw=true) \
 Spectaotr: \
-![Gamemode Spectator](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-spectator.png?raw=true)
+![Gamemode Spectator](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-spectator.png?raw=true) \
 Adventure: \
-![Gamemode Adventure](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-adventure.png?raw=true)
+![Gamemode Adventure](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-adventure.png?raw=true) \
 Survival: \
 ![Gamemode Survival](https://github.com/Silal123/Documentations/blob/main/images/build-server-plugin/gamemode-survival.png?raw=true)
 
