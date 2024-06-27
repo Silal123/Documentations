@@ -31,11 +31,11 @@ Das ist ein Privates Smp/Craft Attack ähnlicher Server.
 **Eine Liste an Commands die wichtig für das Team sind (auf dem Server)**
 
 #### **Coreprotect**
-**/co inspect** - schalte den Inspections modus ein
-> Mit diesem Modus kannst du blöcke rechts oder links klicken um Infos abrufen
-!!! Nicht nutzen !!! **/co rollback radius:<radius> time:<zeit>** - setze einen bestimmten Bereich zurück
-> Man kann bestimmte flächen auf eine Bestimmte zeit zurücksetzen
-**/co lookup radius:<radius> time:<zeit>** - sehe dir alle Interactionen in einem bestimmten Radius an
+**/co inspect** - schalte den Inspections modus ein \
+> Mit diesem Modus kannst du blöcke rechts oder links klicken um Infos abrufen \
+!!! Nicht nutzen !!! **/co rollback radius:<radius> time:<zeit>** - setze einen bestimmten Bereich zurück \
+> Man kann bestimmte flächen auf eine Bestimmte zeit zurücksetzen \
+**/co lookup radius:<radius> time:<zeit>** - sehe dir alle Interactionen in einem bestimmten Radius an \
 > Zeigt interactionen wie Clicken von truhen, blöcke abbauen und blöcke plazieren
 
 ## Guis
