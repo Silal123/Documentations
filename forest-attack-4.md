@@ -31,7 +31,7 @@ Das ist ein Privates Smp/Craft Attack ähnlicher Server.
 **Eine Liste an Commands die wichtig für das Team sind (auf dem Server)**
 
 #### **Minecraft**
-**/ban <spieler> [grund]** - Banne einen Spieler
+**/ban <spieler> [grund]** - Banne einen Spieler \
 **/pardon <spieler>** - Entbanne einen Spieler
 
 #### **Coreprotect**
