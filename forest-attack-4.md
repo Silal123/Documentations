@@ -30,6 +30,10 @@ Das ist ein Privates Smp/Craft Attack ähnlicher Server.
 ## Allgemeine Commands von anderen Plugins
 **Eine Liste an Commands die wichtig für das Team sind (auf dem Server)**
 
+#### **Minecraft**
+**/ban <spieler> [grund]** - Banne einen Spieler
+**/pardon <spieler>** - Entbanne einen Spieler
+
 #### **Coreprotect**
 **/co inspect** - schalte den Inspections modus ein
 > Mit diesem Modus kannst du blöcke rechts oder links klicken um Infos abrufen
