@@ -7,41 +7,41 @@ Das ist ein Privates Smp/Craft Attack ähnlicher Server.
 **/info** - allgemeine Informationen über das Plugin
 **/clan** - öffnet ein allgemeines Clan gui in dem du einen Clan erstellen/verwalten kannst! \
 **/clan create** - öffnet ein Gui um einen Clan zu erstellen \
-**/clan create <name> <tag>** - erstelle einen Clan mit einem namen und einem Tag! \
+**/clan create NAME TAG** - erstelle einen Clan mit einem namen und einem Tag! \
 **/clan delete** - löscht deinen Clan \
-**/clan invite <spieler>** - lade einen Spieler zu deinem Clan ein \
-**/clan join <name>** - trete einem Clan bei wenn du eine Einladung hast! \
+**/clan invite SPIELER** - lade einen Spieler zu deinem Clan ein \
+**/clan join NAME** - trete einem Clan bei wenn du eine Einladung hast! \
 **/clan leave** - verlasse einen Clan \
 **/clan info** - rufe alle Infos über deinen Clan ab \
-**/clan kick <spieler>** - werfe einen Spieler aus deinem clan \
-**/clan settings <name/tag> <eingabe>** - änder eine bestimmte Option an deinem Clan \
-**/clan chat <nachricht>** - schreibe eine Nachricht in deinen Clan chat
+**/clan kick SPIELER** - werfe einen Spieler aus deinem clan \
+**/clan settings NAME/TAG EINGABE** - änder eine bestimmte Option an deinem Clan \
+**/clan chat NACHRICHT** - schreibe eine Nachricht in deinen Clan chat
 
 #### **Admin Commands:** 
 **/clanconfig** - öffnet ein menü in dem du Clan bearbeiten kannst \
-**/clancinfig edit <clan> <option> [option2]** - editiere einen Clan über Command \
-**/freeze [on/off]** - friere dich ein \
-**/freeze <player/all> [all:on/off]** - freeze alle Spieler oder nur einen bestimmten! \
-**/rank <spieler> get** - rufe den Rang eines Spielers ab \
-**/rank <spieler> set <rang>** - setze den Rang eines Spielers \
-**/invsee <spieler>** - schaue in das Inventar eines Spielers \
-**/endsee <spieler>** - schaue in die Enderchest eines Spielers
+**/clancinfig edit CLAN OPTION [OPTION2]** - editiere einen Clan über Command \
+**/freeze [ON/OFF]** - friere dich ein \
+**/freeze PLAYER/ALL [ALL:ON/OFF]** - freeze alle Spieler oder nur einen bestimmten! \
+**/rank SPIELER get** - rufe den Rang eines Spielers ab \
+**/rank SPIELER set RANG** - setze den Rang eines Spielers \
+**/invsee SPIELER** - schaue in das Inventar eines Spielers \
+**/endsee SPIELER** - schaue in die Enderchest eines Spielers
 
 ## Allgemeine Commands von anderen Plugins
 **Eine Liste an Commands die wichtig für das Team sind (auf dem Server)**
 
 #### **Minecraft**
-**/ban <spieler> [grund]** - Banne einen Spieler \
-**/pardon <spieler>** - Entbanne einen Spieler
+**/ban SPIELER [GRUND]** - Banne einen Spieler \
+**/pardon SPIELER** - Entbanne einen Spieler
 
 #### **Coreprotect**
 **/co inspect** - schalte den Inspections modus ein
 > Mit diesem Modus kannst du blöcke rechts oder links klicken um Infos abrufen
 
-!!! Nicht nutzen !!! **/co rollback radius:<radius> time:<zeit>** - setze einen bestimmten Bereich zurück
+!!! Nicht nutzen !!! **/co rollback radius:RADIUS time:ZEIT** - setze einen bestimmten Bereich zurück
 > Man kann bestimmte flächen auf eine Bestimmte zeit zurücksetzen
 
-**/co lookup radius:<radius> time:<zeit>** - sehe dir alle Interactionen in einem bestimmten Radius an
+**/co lookup radius:RADIUS time:ZEIT** - sehe dir alle Interactionen in einem bestimmten Radius an
 > Zeigt interactionen wie Clicken von truhen, blöcke abbauen und blöcke plazieren
 
 ## Guis
